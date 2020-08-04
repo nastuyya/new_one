@@ -6,3 +6,4 @@
 
 Раз
 Два
+New line from master
